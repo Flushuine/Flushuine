@@ -1,4 +1,4 @@
-Hi 👋, I’m @Flushuine. I'm a Backend Web Developer. I am an undergraduate student of Informatics Engineering at Universitas Pamulang who is thirsty for knowledge, flexible, and perfectionist.
+Hi 👋, I’m @Flushuine, Backend Web Developer. I am an undergraduate student of Informatics Engineering at Universitas Pamulang who is thirsty for knowledge, flexible, and perfectionist.
 
 👀 Currently, I am familiar with NodeJS and Laravel.
 
