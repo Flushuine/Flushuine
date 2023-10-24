@@ -1,6 +1,4 @@
-Hi 👋, I’m @Flushuine. I am a backend developer who is thirsty for knowledge, flexible, and perfectionist.
-
-👀 Currently, I am familiar with NodeJS and Laravel.
+Hi 👋, I’m @Flushuine. I am a backend developer
 
 You can reach me on LinkedIn: 
 
